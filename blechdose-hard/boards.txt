@@ -1,0 +1,17 @@
+﻿# @itemType@=boards
+# @ArduinoIDECompatibility@=1.5
+
+############################################################## 
+
+blechdose.name=Blechdose
+blechdose.build.mcu=atmega328p
+blechdose.build.mcu=atmega328p
+blechdose.build.f_cpu=16000000
+blechdose.build.core=arduino
+blechdose.build.variant=standard
+blechdose.build.board=blechdose
+blechdose.upload.tool=arduino:avrdude
+blechdose.upload.protocol=usbasp
+blechdose.upload.maximum_size=30720
+blechdose.upload.speed=115200
+blechdose.bootloader.tool=avrdude
