@@ -1,5 +1,5 @@
 name=Blechdose
-version=1.0.3
+version=1.0.5
 
 tools.avrdude.path={runtime.tools.avrdude.path}
 tools.avrdude.erase.params.verbose=-v -v -v -v

@@ -3,7 +3,7 @@
 
 ############################################################## 
 
-blechdose.name=Blechdose
+blechdose.name=Blechdose (USB)
 blechdose.build.mcu=atmega328p
 blechdose.build.f_cpu=16000000
 blechdose.build.core=arduino:arduino
