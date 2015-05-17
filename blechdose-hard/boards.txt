@@ -5,7 +5,6 @@
 
 blechdose.name=Blechdose
 blechdose.build.mcu=atmega328p
-blechdose.build.mcu=atmega328p
 blechdose.build.f_cpu=16000000
 blechdose.build.core=arduino
 blechdose.build.variant=standard

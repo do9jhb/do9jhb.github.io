@@ -19,10 +19,10 @@
           },
           "url": "http://do9jhb.github.io/blechdose-hard.zip",
           "archiveFileName": "blechdose-hard.zip",
-          "checksum": "SHA-256:25068e9e6f8c1f2785f6fd6aad405c812a2c05a02f1fa1233ae6d6fc25df832c",
+          "checksum": "SHA-256:9E7057D923D1B2E2D936373C8C022A204AAA28A5F5F9D3AE7332C16A4814D67D",
           "size": "4096",
           "boards": [
-            {"name": "ATmega328p"}
+            {"name": "Blechdose (m328)"}
           ],
           "toolsDependencies": [
             {
