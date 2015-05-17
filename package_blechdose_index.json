@@ -12,15 +12,15 @@
         {
           "name": "Blechdose (USB)",
           "architecture": "avr",
-          "version": "1.0.1",
+          "version": "1.0.2",
           "category": "blechdose",
           "help": {
             "online": ""
           },
           "url": "http://do9jhb.github.io/blechdose-hard.zip",
           "archiveFileName": "blechdose-hard.zip",
-          "checksum": "SHA-256:9E7057D923D1B2E2D936373C8C022A204AAA28A5F5F9D3AE7332C16A4814D67D",
-          "size": "737",
+          "checksum": "SHA-256:1825590E34840913B98109F7A82022A1",
+          "size": "922",
           "boards": [
             {"name": "Blechdose (m328)"}
           ],
