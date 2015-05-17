@@ -1,4 +1,6 @@
-﻿# @itemType@=boards
+﻿#Copyright J. Boehmer Mai 2015
+
+# @itemType@=boards
 # @ArduinoIDECompatibility@=1.5
 
 ############################################################## 

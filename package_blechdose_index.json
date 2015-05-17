@@ -19,8 +19,8 @@
           },
           "url": "http://do9jhb.github.io/blechdose-hard.zip",
           "archiveFileName": "blechdose-hard.zip",
-          "checksum": "SHA-256:FFE69A407AF20432D859486511E112804EA995C81D0F3E3D7D59B2BE571396F5",
-          "size": "951",
+          "checksum": "SHA-256:14DDD978C05DB27BB3AF251CE898D475409A34F6024ACFEC4290FD11E80C1C42",
+          "size": "999",
           "boards": [
             {"name": "Blechdose (m328)"}
           ],

@@ -1,3 +1,5 @@
+#Copyright J. Boehmer Mai 2015
+
 name=Blechdose
 version=1.0.5
 
